@@ -1,0 +1,11 @@
+Kubernetes: orquestador de contenedores
+
+OpenShift:  - distribución de kurbetenes
+            - implemantan la funcionalidad de kurnentes y además añaden su propia funcionalidad
+			
+			
+Minikube: - herramienta que levanta una maquina virtual con una cluter de un nodo
+          - interfaze que levanta maquina virtual
+Kuberctl: herramienta estandar de kubernetes que se utiliza para manejar el cluster
+
+https://www.youtube.com/watch?v=xNMRtEEbCBc&list=PLrb1e2Mp6N_uJSNsV-7SqLFaBdImJsI5x&index=10
